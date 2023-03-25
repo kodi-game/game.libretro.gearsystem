@@ -22,7 +22,3 @@ Help make me fanart!
 ### Screenshots
 
 Help make me screenshots!
-
-### Disclaimer
-
-*The Gearsystem core has been authored by Ignacio Sanchez (drhelius)*
