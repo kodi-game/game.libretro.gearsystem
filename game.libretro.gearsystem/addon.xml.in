@@ -20,6 +20,5 @@
 		<source>https://github.com/kodi-game/game.libretro.gearsystem</source>
 		<summary lang="en_GB">Sega - MS/GG/SG-1000 (Gearsystem)</summary>
 		<description lang="en_GB">Gearsystem is an open source, cross-platform, Sega Master System / Game Gear / SG-1000 / Othello Multivision emulator.</description>
-		<disclaimer lang="en_GB">The Gearsystem core has been authored by Ignacio Sanchez (drhelius)</disclaimer>
 	</extension>
 </addon>
