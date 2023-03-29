@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.gearsystem.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.gearsystem)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.gearsystem?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-gearsystem)
-
 # Sega - MS/GG/SG-1000 (Gearsystem)
 
 ### Description
