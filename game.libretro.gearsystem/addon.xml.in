@@ -21,6 +21,7 @@
 		<summary lang="da_DK">Sega - MS/GG/SG-1000 (Gearsystem)</summary>
 		<summary lang="en_GB">Sega - MS/GG/SG-1000 (Gearsystem)</summary>
 		<summary lang="es_ES">Sega - MS/GG/SG-1000 (Gearsystem)</summary>
+		<description lang="da_DK">Gearsystem er en open source, multiplatform, Sega Master system / Game Gear / SG-1000 / Othello Multivision emulator.</description>
 		<description lang="en_GB">Gearsystem is an open source, cross-platform, Sega Master System / Game Gear / SG-1000 / Othello Multivision emulator.</description>
 		<description lang="es_ES">Gearsystem es un emulador de Sega Master System / Game Gear / SG-1000 / Othello Multivision de codigo abierto y multiplataforma.</description>
 	</extension>
