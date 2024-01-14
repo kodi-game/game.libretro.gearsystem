@@ -60,3 +60,15 @@ msgstr "3D briller"
 msgctxt "#30008"
 msgid "Allow Up+Down / Left+Right"
 msgstr "Tillad op+ned / venstre+højre"
+
+msgctxt "#30009"
+msgid "Aspect Ratio (restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Overscan"
+msgstr ""
+
+msgctxt "#30011"
+msgid "YM2413 (restart)"
+msgstr ""
