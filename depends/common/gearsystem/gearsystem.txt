@@ -1,1 +1,1 @@
-gearsystem https://github.com/drhelius/Gearsystem/archive/a2e8af25e732dcc499c7f348c156ad78f6ac0645.tar.gz
+gearsystem https://github.com/drhelius/Gearsystem/archive/d4e65ab06913161e283acba873ae90e6f616c645.tar.gz
