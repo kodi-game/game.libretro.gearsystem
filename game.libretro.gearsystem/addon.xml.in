@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gearsystem"
 		name="Sega - MS/GG/SG-1000 (Gearsystem)"
-		version="3.5.0.13"
+		version="3.5.0.14"
 		provider-name="Ignacio Sanchez">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
