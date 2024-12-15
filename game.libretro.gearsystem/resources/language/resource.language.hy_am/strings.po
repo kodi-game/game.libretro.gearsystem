@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Gearsystem is an open source, cross-platform, Sega Master System / Game Gear / SG-1000 / Othello Multivision emulator."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "System (restart)"
 msgstr ""
