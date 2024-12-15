@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="gearsystem_system" values="Auto|Master System / Mark III|Game Gear|SG-1000 / Multivision" default="Auto"/>
 		<setting label="30002" type="select" id="gearsystem_region" values="Auto|Master System Japan|Master System Export|Game Gear Japan|Game Gear Export|Game Gear International" default="Auto"/>
 		<setting label="30003" type="select" id="gearsystem_mapper" values="Auto|ROM|SEGA|Codemasters|Korean|MSX|Janggun|SG-1000" default="Auto"/>
