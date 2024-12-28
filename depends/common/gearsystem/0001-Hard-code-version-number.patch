@@ -1,0 +1,25 @@
+From 306c763a9e38bd4251581cc03848f404502b0383 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sat, 28 Dec 2024 05:15:17 -0800
+Subject: [PATCH] Hard-code version number
+
+---
+ platforms/libretro/libretro.cpp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/platforms/libretro/libretro.cpp b/platforms/libretro/libretro.cpp
+index 463b53e..a117823 100644
+--- a/platforms/libretro/libretro.cpp
++++ b/platforms/libretro/libretro.cpp
+@@ -172,7 +172,7 @@ void retro_get_system_info(struct retro_system_info *info)
+ {
+     memset(info, 0, sizeof(*info));
+     info->library_name     = "Gearsystem";
+-    info->library_version  = GEARSYSTEM_VERSION;
++    info->library_version  = "3.5.0";
+     info->need_fullpath    = false;
+     info->valid_extensions = "sms|gg|sg|mv|bin|rom";
+ }
+-- 
+2.43.0
+
