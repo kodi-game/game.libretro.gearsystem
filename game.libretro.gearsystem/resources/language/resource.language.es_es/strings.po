@@ -57,10 +57,6 @@ msgctxt "#30008"
 msgid "Allow Up+Down / Left+Right"
 msgstr "Permitir Arriba+Abajo / Izquierda+Derecha"
 
-msgctxt "#30009"
-msgid "Aspect Ratio (restart)"
-msgstr "Relación de aspecto (reiniciar)"
-
 msgctxt "#30010"
 msgid "Overscan"
 msgstr "Overscan"
@@ -72,6 +68,18 @@ msgstr "YM2413 (reiniciar)"
 msgctxt "#30012"
 msgid "Hide Left Bar (SMS only)"
 msgstr ""
+
+msgctxt "#30013"
+msgid "Aspect Ratio"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Light Gun Input"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Aspect Ratio (restart)"
+#~ msgstr "Relación de aspecto (reiniciar)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

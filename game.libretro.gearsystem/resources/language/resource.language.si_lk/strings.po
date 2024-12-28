@@ -57,10 +57,6 @@ msgctxt "#30008"
 msgid "Allow Up+Down / Left+Right"
 msgstr ""
 
-msgctxt "#30009"
-msgid "Aspect Ratio (restart)"
-msgstr ""
-
 msgctxt "#30010"
 msgid "Overscan"
 msgstr ""
@@ -71,4 +67,12 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Hide Left Bar (SMS only)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Aspect Ratio"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Light Gun Input"
 msgstr ""
