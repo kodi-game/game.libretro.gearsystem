@@ -68,3 +68,7 @@ msgstr ""
 msgctxt "#30011"
 msgid "YM2413 (restart)"
 msgstr ""
+
+msgctxt "#30012"
+msgid "Hide Left Bar (SMS only)"
+msgstr ""
