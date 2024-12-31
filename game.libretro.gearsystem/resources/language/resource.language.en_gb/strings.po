@@ -77,3 +77,7 @@ msgstr ""
 msgctxt "#30014"
 msgid "Light Gun Input"
 msgstr ""
+
+msgctxt "#30015"
+msgid "Paddle Sensitivity"
+msgstr ""

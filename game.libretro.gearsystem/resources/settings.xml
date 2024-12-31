@@ -14,5 +14,6 @@
 		<setting label="30007" type="select" id="gearsystem_glasses" values="Both Eyes / OFF|Left Eye|Right Eye" default="Both Eyes / OFF"/>
 		<setting label="30008" type="select" id="gearsystem_up_down_allowed" values="Disabled|Enabled" default="Disabled"/>
 		<setting label="30014" type="select" id="gearsystem_lightgun_input" values="Light Gun|Touchscreen" default="Light Gun"/>
+		<setting label="30015" type="select" id="gearsystem_paddle_sensitivity" values="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15" default="1"/>
 	</category>
 </settings>
