@@ -81,6 +81,34 @@ msgctxt "#30015"
 msgid "Paddle Sensitivity"
 msgstr ""
 
+msgctxt "#30016"
+msgid "PSG Volume"
+msgstr ""
+
+msgctxt "#30017"
+msgid "FM Volume"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Light Gun Crosshair"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Light Gun Crosshair Shape"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Light Gun Crosshair Color"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Light Gun Crosshair Offset X"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Light Gun Crosshair Offset Y"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Asetukset"
