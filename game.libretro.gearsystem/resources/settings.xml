@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="128">
-		<setting label="30001" type="select" id="gearsystem_system" values="Auto|Master System / Mark III|Game Gear|SG-1000 / Multivision" default="Auto"/>
+		<setting label="30001" type="select" id="gearsystem_system" values="Auto|Master System / Mark III|Game Gear (2 ASIC)|Game Gear (2 ASIC) SMS Mode|Game Gear (1 ASIC)|Game Gear (1 ASIC) SMS Mode|SG-1000 / Multivision|SG-1000 II" default="Auto"/>
 		<setting label="30002" type="select" id="gearsystem_region" values="Auto|Master System Japan|Master System Export|Game Gear Japan|Game Gear Export|Game Gear International" default="Auto"/>
-		<setting label="30003" type="select" id="gearsystem_mapper" values="Auto|ROM|SEGA|Codemasters|Korean|MSX|Janggun|SG-1000" default="Auto"/>
+		<setting label="30003" type="select" id="gearsystem_mapper" values="Auto|ROM|SEGA|Codemasters|Korean|SG-1000|MSX|Janggun|Korean 2000 XOR 1F|Korean MSX 32KB 2000|Korean MSX SMS 8000|Korean SMS 32KB 2000|Korean MSX 8KB 0300|Korean 0000 XOR FF|Korean FFFF HiCom|Korean FFFE|Korean BFFC|Korean FFF3 FFFC|Korean MD FFF5|Korean MD FFF0|Jumbo Dahjee|EEPROM 93C46|Multi 4PAK All Action|Iratahack" default="Auto"/>
 		<setting label="30004" type="select" id="gearsystem_timing" values="Auto|NTSC (60 Hz)|PAL (50 Hz)" default="Auto"/>
+		<setting label="30005" type="select" id="gearsystem_bios_sms" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30006" type="select" id="gearsystem_bios_gg" values="Disabled|Enabled" default="Disabled"/>
 		<setting label="30013" type="select" id="gearsystem_aspect_ratio" values="1:1 PAR|4:3 DAR|16:9 DAR|16:10 DAR" default="1:1 PAR"/>
 		<setting label="30010" type="select" id="gearsystem_overscan" values="Disabled|Top+Bottom|Full (284 width)|Full (320 width)" default="Disabled"/>
 		<setting label="30012" type="select" id="gearsystem_hide_left_bar" values="No|Auto|Always" default="No"/>
-		<setting label="30005" type="select" id="gearsystem_bios_sms" values="Disabled|Enabled" default="Disabled"/>
-		<setting label="30006" type="select" id="gearsystem_bios_gg" values="Disabled|Enabled" default="Disabled"/>
-		<setting label="30011" type="select" id="gearsystem_ym2413" values="Auto|Disabled" default="Auto"/>
 		<setting label="30007" type="select" id="gearsystem_glasses" values="Both Eyes / OFF|Left Eye|Right Eye" default="Both Eyes / OFF"/>
+		<setting label="30011" type="select" id="gearsystem_ym2413" values="Auto|Disabled" default="Auto"/>
+		<setting label="30016" type="select" id="gearsystem_psg_volume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30017" type="select" id="gearsystem_fm_volume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
 		<setting label="30008" type="select" id="gearsystem_up_down_allowed" values="Disabled|Enabled" default="Disabled"/>
 		<setting label="30014" type="select" id="gearsystem_lightgun_input" values="Light Gun|Touchscreen" default="Light Gun"/>
+		<setting label="30018" type="select" id="gearsystem_lightgun_crosshair" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30019" type="select" id="gearsystem_lightgun_shape" values="Cross|Square" default="Cross"/>
+		<setting label="30020" type="select" id="gearsystem_lightgun_color" values="White|Black|Red|Green|Blue|Yellow|Magenta|Cyan" default="White"/>
+		<setting label="30021" type="select" id="gearsystem_lightgun_crosshair_offset_x" values="0|-10|-9|-8|-7|-6|-5|-4|-3|-2|-1|1|2|3|4|5|6|7|8|9|10" default="0"/>
+		<setting label="30022" type="select" id="gearsystem_lightgun_crosshair_offset_y" values="0|-10|-9|-8|-7|-6|-5|-4|-3|-2|-1|1|2|3|4|5|6|7|8|9|10" default="0"/>
 		<setting label="30015" type="select" id="gearsystem_paddle_sensitivity" values="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15" default="1"/>
 	</category>
 </settings>
