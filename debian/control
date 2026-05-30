@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-gearsystem (>= 3.9.6) | gearsystem (>= 3.9.6)
+               libretro-gearsystem (>= 3.9.8) | gearsystem (>= 3.9.8)
 Standards-Version: 3.9.8
 Section: libs
 
