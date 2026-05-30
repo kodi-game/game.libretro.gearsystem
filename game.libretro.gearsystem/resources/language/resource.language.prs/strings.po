@@ -108,3 +108,7 @@ msgstr ""
 msgctxt "#30022"
 msgid "Light Gun Crosshair Offset Y"
 msgstr ""
+
+msgctxt "#30023"
+msgid "No Sprite Limit"
+msgstr ""
