@@ -113,6 +113,126 @@ msgctxt "#30023"
 msgid "No Sprite Limit"
 msgstr ""
 
+msgctxt "#30024"
+msgid "System"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Configure system type, region, mapper, refresh rate and BIOS settings."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Select the console type to emulate. 'Auto' automatically detects the appropriate system based on the loaded content."
+msgstr ""
+
+msgctxt "#30027"
+msgid "Select which region is emulated. 'Auto' automatically detects the appropriate region based on the loaded content."
+msgstr ""
+
+msgctxt "#30028"
+msgid "Select which mapper (memory bank controller) is emulated. 'Auto' automatically detects the appropriate mapper based on the loaded content. Only change this if a game does not work correctly with the default setting."
+msgstr ""
+
+msgctxt "#30029"
+msgid "Select which refresh rate will be used in emulation. 'Auto' selects the best refresh rate based on the loaded content."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Enable or disable the Master System BIOS. For this to work, the 'bios.sms' file must exist in the frontend's system directory. When enabled it will execute as in original hardware, which may cause invalid ROMs to lock or fail to boot."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Enable or disable the Game Gear BIOS. For this to work, the 'bios.gg' file must exist in the frontend's system directory. When enabled it will execute as in original hardware, which may cause invalid ROMs to lock or fail to boot."
+msgstr ""
+
+msgctxt "#30032"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Configure aspect ratio, overscan, left bar visibility, sprite limit and 3D glasses settings."
+msgstr ""
+
+msgctxt "#30034"
+msgid "Select which aspect ratio will be presented by the core. '1:1 PAR' selects an aspect ratio that produces square pixels."
+msgstr ""
+
+msgctxt "#30035"
+msgid "Select which overscan (borders) will be used in emulation. 'Top+Bottom' enables overscan for top and bottom only. 'Full' enables overscan for all sides with the specified width."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Select when to hide the left column in Master System games. Some games use this column for scrolling artifacts. 'Auto' hides it only when a left bar is detected. 'Always' hides it unconditionally."
+msgstr ""
+
+msgctxt "#30037"
+msgid "Remove the per-line sprite limit. This reduces flickering but may cause glitches in certain games. It's best to keep this option disabled."
+msgstr ""
+
+msgctxt "#30038"
+msgid "For games with 3D glasses support, select which eye to display. 'Both Eyes / OFF' is required for games without 3D support or to display both eyes simultaneously."
+msgstr ""
+
+msgctxt "#30039"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Configure FM sound chip settings."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Enable or disable the YM2413 (OPLL) FM sound chip. 'Auto' enables the chip based on the loaded content. Some Master System games use this chip for enhanced music."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Set the volume of the PSG (SN76489). The value is a percentage from 0 to 200, where 100 is the default volume."
+msgstr ""
+
+msgctxt "#30043"
+msgid "Set the volume of the YM2413 (OPLL) FM sound chip. The value is a percentage from 0 to 200, where 100 is the default volume."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Configure controller behavior, light gun and paddle settings."
+msgstr ""
+
+msgctxt "#30046"
+msgid "Allow pressing, quickly alternating, or holding both left and right (or up and down) directions at the same time. This may cause movement based glitches in certain games."
+msgstr ""
+
+msgctxt "#30047"
+msgid "Select which input method will be used for Light Phaser games. 'Light Gun' uses a mouse-controlled light gun input. 'Touchscreen' uses pointer-based touchscreen input."
+msgstr ""
+
+msgctxt "#30048"
+msgid "Enable or disable the crosshair overlay for Light Phaser games."
+msgstr ""
+
+msgctxt "#30049"
+msgid "Select the shape of the crosshair overlay for Light Phaser games."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Select the color of the crosshair overlay for Light Phaser games."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Set the horizontal pixel offset of the crosshair for calibration purposes."
+msgstr ""
+
+msgctxt "#30052"
+msgid "Set the vertical pixel offset of the crosshair for calibration purposes."
+msgstr ""
+
+msgctxt "#30053"
+msgid "Set the sensitivity of the Paddle Control. Higher values result in faster paddle movement."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Nastavitve"
