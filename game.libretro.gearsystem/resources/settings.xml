@@ -8,14 +8,14 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>Master System / Mark III</option>
-							<option>Game Gear (2 ASIC)</option>
-							<option>Game Gear (2 ASIC) SMS Mode</option>
-							<option>Game Gear (1 ASIC)</option>
-							<option>Game Gear (1 ASIC) SMS Mode</option>
-							<option>SG-1000 / Multivision</option>
-							<option>SG-1000 II</option>
+							<option label="16316">Auto</option>
+							<option label="30054">Master System / Mark III</option>
+							<option label="30055">Game Gear (2 ASIC)</option>
+							<option label="30056">Game Gear (2 ASIC) SMS Mode</option>
+							<option label="30057">Game Gear (1 ASIC)</option>
+							<option label="30058">Game Gear (1 ASIC) SMS Mode</option>
+							<option label="30059">SG-1000 / Multivision</option>
+							<option label="30060">SG-1000 II</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -25,12 +25,12 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>Master System Japan</option>
-							<option>Master System Export</option>
-							<option>Game Gear Japan</option>
-							<option>Game Gear Export</option>
-							<option>Game Gear International</option>
+							<option label="16316">Auto</option>
+							<option label="30061">Master System Japan</option>
+							<option label="30062">Master System Export</option>
+							<option label="30063">Game Gear Japan</option>
+							<option label="30064">Game Gear Export</option>
+							<option label="30065">Game Gear International</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -40,30 +40,30 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>ROM</option>
-							<option>SEGA</option>
-							<option>Codemasters</option>
-							<option>Korean</option>
-							<option>SG-1000</option>
-							<option>MSX</option>
-							<option>Janggun</option>
-							<option>Korean 2000 XOR 1F</option>
-							<option>Korean MSX 32KB 2000</option>
-							<option>Korean MSX SMS 8000</option>
-							<option>Korean SMS 32KB 2000</option>
-							<option>Korean MSX 8KB 0300</option>
-							<option>Korean 0000 XOR FF</option>
-							<option>Korean FFFF HiCom</option>
-							<option>Korean FFFE</option>
-							<option>Korean BFFC</option>
-							<option>Korean FFF3 FFFC</option>
-							<option>Korean MD FFF5</option>
-							<option>Korean MD FFF0</option>
-							<option>Jumbo Dahjee</option>
-							<option>EEPROM 93C46</option>
-							<option>Multi 4PAK All Action</option>
-							<option>Iratahack</option>
+							<option label="16316">Auto</option>
+							<option label="30066">ROM</option>
+							<option label="30067">SEGA</option>
+							<option label="30068">Codemasters</option>
+							<option label="30069">Korean</option>
+							<option label="30070">SG-1000</option>
+							<option label="30071">MSX</option>
+							<option label="30072">Janggun</option>
+							<option label="30073">Korean 2000 XOR 1F</option>
+							<option label="30074">Korean MSX 32KB 2000</option>
+							<option label="30075">Korean MSX SMS 8000</option>
+							<option label="30076">Korean SMS 32KB 2000</option>
+							<option label="30077">Korean MSX 8KB 0300</option>
+							<option label="30078">Korean 0000 XOR FF</option>
+							<option label="30079">Korean FFFF HiCom</option>
+							<option label="30080">Korean FFFE</option>
+							<option label="30081">Korean BFFC</option>
+							<option label="30082">Korean FFF3 FFFC</option>
+							<option label="30083">Korean MD FFF5</option>
+							<option label="30084">Korean MD FFF0</option>
+							<option label="30085">Jumbo Dahjee</option>
+							<option label="30086">EEPROM 93C46</option>
+							<option label="30087">Multi 4PAK All Action</option>
+							<option label="30088">Iratahack</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -73,9 +73,9 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>NTSC (60 Hz)</option>
-							<option>PAL (50 Hz)</option>
+							<option label="16316">Auto</option>
+							<option label="30089">NTSC (60 Hz)</option>
+							<option label="30090">PAL (50 Hz)</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -85,8 +85,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -96,8 +96,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -124,10 +124,10 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Top+Bottom</option>
-							<option>Full (284 width)</option>
-							<option>Full (320 width)</option>
+							<option label="13106">Disabled</option>
+							<option label="30091">Top+Bottom</option>
+							<option label="30092">Full (284 width)</option>
+							<option label="30093">Full (320 width)</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -137,9 +137,9 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Auto</option>
-							<option>Always</option>
+							<option label="106">No</option>
+							<option label="16316">Auto</option>
+							<option label="34122">Always</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -149,8 +149,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -176,8 +176,8 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>Disabled</option>
+							<option label="16316">Auto</option>
+							<option label="13106">Disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -251,8 +251,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -273,8 +273,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
