@@ -233,6 +233,166 @@ msgctxt "#30053"
 msgid "Set the sensitivity of the Paddle Control. Higher values result in faster paddle movement."
 msgstr ""
 
+msgctxt "#30054"
+msgid "Master System / Mark III"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Game Gear (2 ASIC)"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Game Gear (2 ASIC) SMS Mode"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Game Gear (1 ASIC)"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Game Gear (1 ASIC) SMS Mode"
+msgstr ""
+
+msgctxt "#30059"
+msgid "SG-1000 / Multivision"
+msgstr ""
+
+msgctxt "#30060"
+msgid "SG-1000 II"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Master System Japan"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Master System Export"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Game Gear Japan"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Game Gear Export"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Game Gear International"
+msgstr ""
+
+msgctxt "#30066"
+msgid "ROM"
+msgstr ""
+
+msgctxt "#30067"
+msgid "SEGA"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Codemasters"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Korean"
+msgstr ""
+
+msgctxt "#30070"
+msgid "SG-1000"
+msgstr ""
+
+msgctxt "#30071"
+msgid "MSX"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Janggun"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Korean 2000 XOR 1F"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Korean MSX 32KB 2000"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Korean MSX SMS 8000"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Korean SMS 32KB 2000"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Korean MSX 8KB 0300"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Korean 0000 XOR FF"
+msgstr ""
+
+msgctxt "#30079"
+msgid "Korean FFFF HiCom"
+msgstr ""
+
+msgctxt "#30080"
+msgid "Korean FFFE"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Korean BFFC"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Korean FFF3 FFFC"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Korean MD FFF5"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Korean MD FFF0"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Jumbo Dahjee"
+msgstr ""
+
+msgctxt "#30086"
+msgid "EEPROM 93C46"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Multi 4PAK All Action"
+msgstr ""
+
+msgctxt "#30088"
+msgid "Iratahack"
+msgstr ""
+
+msgctxt "#30089"
+msgid "NTSC (60 Hz)"
+msgstr ""
+
+msgctxt "#30090"
+msgid "PAL (50 Hz)"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Top+Bottom"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Full (284 width)"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Full (320 width)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
