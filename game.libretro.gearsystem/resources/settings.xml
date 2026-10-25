@@ -244,7 +244,7 @@
 				</setting>
 			</group>
 		</category>
-		<category id="input" label="30044" help="30045">
+		<category id="input" label="30044" help="30094">
 			<group id="1">
 				<setting id="gearsystem_up_down_allowed" type="string" label="30008" help="30046">
 					<level>0</level>
@@ -387,6 +387,91 @@
 							<option>13</option>
 							<option>14</option>
 							<option>15</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearsystem_sports_pad_sensitivity" type="string" label="30095" help="30096">
+					<level>0</level>
+					<default>8</default>
+					<constraints>
+						<options>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+							<option>10</option>
+							<option>11</option>
+							<option>12</option>
+							<option>13</option>
+							<option>14</option>
+							<option>15</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+		<category id="link" label="30097" help="30098">
+			<group id="1">
+				<setting id="gearsystem_link_enable" type="string" label="30099" help="30100">
+					<level>0</level>
+					<default>Disabled</default>
+					<constraints>
+						<options>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearsystem_link_placement" type="string" label="30101" help="30102">
+					<level>0</level>
+					<default>Horizontal</default>
+					<constraints>
+						<options>
+							<option>Horizontal</option>
+							<option>Vertical</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearsystem_link_switch" type="string" label="30103" help="30104">
+					<level>0</level>
+					<default>Disabled</default>
+					<constraints>
+						<options>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearsystem_link_screen" type="string" label="30105" help="30106">
+					<level>0</level>
+					<default>Both Screens</default>
+					<constraints>
+						<options>
+							<option>Both Screens</option>
+							<option>Screen 1</option>
+							<option>Screen 2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearsystem_link_audio" type="string" label="30107" help="30108">
+					<level>0</level>
+					<default>Screen 1</default>
+					<constraints>
+						<options>
+							<option>Screen 1</option>
+							<option>Screen 2</option>
+							<option>Mix</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
