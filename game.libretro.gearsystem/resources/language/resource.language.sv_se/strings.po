@@ -201,10 +201,6 @@ msgctxt "#30044"
 msgid "Input"
 msgstr ""
 
-msgctxt "#30045"
-msgid "Configure controller behavior, light gun and paddle settings."
-msgstr ""
-
 msgctxt "#30046"
 msgid "Allow pressing, quickly alternating, or holding both left and right (or up and down) directions at the same time. This may cause movement based glitches in certain games."
 msgstr ""
@@ -395,6 +391,66 @@ msgstr ""
 
 msgctxt "#30093"
 msgid "Full (320 width)"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Configure controller behavior, light gun, paddle and Sports Pad settings."
+msgstr ""
+
+msgctxt "#30095"
+msgid "Sports Pad Sensitivity"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Set the sensitivity of the Sports Pad. Higher values result in faster trackball movement."
+msgstr ""
+
+msgctxt "#30097"
+msgid "Link Cable"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Configure Game Gear link cable emulation, screen layout and audio."
+msgstr ""
+
+msgctxt "#30099"
+msgid "Game Link Cable Enable (restart)"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Run two linked Game Gear systems. Loading one ROM runs a separate copy on each screen; use the 2 Player Game Gear Link subsystem to load two different ROMs. Controller ports 1 and 2 control screens 1 and 2. Only native Game Gear mode supports linking; other systems run normally."
+msgstr ""
+
+msgctxt "#30101"
+msgid "Dual Screen Placement"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Arrange both screens horizontally or vertically."
+msgstr ""
+
+msgctxt "#30103"
+msgid "Dual Screen Switch"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Swap the positions of the two screens. Controller assignments, screen selection and audio selection still refer to the original screen numbers."
+msgstr ""
+
+msgctxt "#30105"
+msgid "Dual Screen Selection"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Display both screens or only the selected system. Both systems continue running."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Dual Screen Audio"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Choose the system to hear, or mix both systems at half volume each."
 msgstr ""
 
 #~ msgctxt "#30000"
